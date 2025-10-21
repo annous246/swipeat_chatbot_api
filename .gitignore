@@ -13,10 +13,10 @@ ENV/
 *.env
 
 # Chroma / database persistence
-chroma_db/
-*.db
-*.sqlite
-*.parquet
+# chroma_db/
+# *.db
+# *.sqlite
+# *.parquet
 
 # IDEs / Editors
 .vscode/
